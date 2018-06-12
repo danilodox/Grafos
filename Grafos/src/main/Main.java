@@ -1,7 +1,9 @@
-package listaligada;
+package main;
 
 import java.util.LinkedList;
 import java.util.Scanner;
+
+import grafo.Grafo;
 
 public class Main {
 

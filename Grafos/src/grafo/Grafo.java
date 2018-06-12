@@ -1,4 +1,4 @@
-package listaligada;
+package grafo;
 
 import java.util.LinkedList;
 
