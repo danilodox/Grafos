@@ -16,8 +16,6 @@ public class Grafo {
 		 linked[a].add(b);
 	 }
 	 
-    
-     
      public String listar(){
     	 String linkedString = "";
     	 for(int i = 1; i < this.linked.length; i++) {
